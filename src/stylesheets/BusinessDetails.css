@@ -1,0 +1,11 @@
+.business-details-page{
+    height: 100vh;
+    /* background: pink; */
+}
+
+.business-details-container{
+    height: 85vh;
+}
+.business-details-page .lower-container{
+    height: 15vh;
+}

@@ -1,0 +1,27 @@
+.homepage-page{
+    /* background-color: pink; */
+    height: 100vh;
+}
+.homepage-container {
+    height: 90vh;
+    overflow-y: auto;
+}
+.vh-35{
+    height: 35vh;
+}
+.homepage-container .card{
+    /* background-color: rgb(228, 227, 227); */
+    /* width: 7.5rem;
+    height: 7.5rem !important; */
+}
+.homepage-container .gallery-icon{
+    font-size: 3rem;
+}
+.homepage-page .lower-container{
+    height: 10vh;
+}
+.homepage-container img{
+    width: 7.5rem !important;
+    height: 7.5rem !important;
+    object-fit: fill !important;
+}

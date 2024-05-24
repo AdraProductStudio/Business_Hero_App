@@ -1,0 +1,15 @@
+.share-on-whatsapp-page{
+    height: 100vh;
+}
+.share-on-whatsapp-page .upper-container{
+    height: 80vh;
+}
+.share-on-whatsapp-page .lower-container{
+    height: 20vh;
+}
+.share-on-whatsapp-page .card{
+    background-color: rgb(228, 227, 227) !important;
+}
+.share-on-whatsapp-page .gallery-icon{
+    font-size: 3rem;
+}

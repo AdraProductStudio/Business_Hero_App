@@ -1,3 +1,30 @@
+:root{
+  --orange : #e8833a;
+  --teal-dark-green : #075E54;
+  --teal-light-green : #128C7E;
+  --total-height:100vh;
+}
+
+.brand-color{
+  background-color: var(--orange) !important;
+  color: #fff !important;
+}
+
+.btn-teal-dark-green{
+  background-color: #075E54 !important;
+  color: #fff !important;
+}
+
+.btn-teal-light-green{
+  background-color: #128C7E;
+  color: #fff;
+}
+
+.btn-outline-brand-color{
+  color: #e8833a !important;
+  border: 1px solid #e8833a !important;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +38,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

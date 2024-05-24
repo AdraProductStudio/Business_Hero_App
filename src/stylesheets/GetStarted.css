@@ -1,0 +1,11 @@
+.get-started-page{
+    height: 100vh;
+}
+.get-started-page .upper-container{
+    height: 80vh;
+    /* background-color: pink; */
+}
+.get-started-page .lower-container{
+    height: 20vh;
+    /* background-color: coral; */
+}

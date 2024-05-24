@@ -1,0 +1,15 @@
+.business-category-page{
+    height: 100vh;
+}
+.business-category-page .upper-container{
+    height: 85vh;
+}
+.business-category-page .lower-container{
+    height: 15vh;
+}
+.business-category-page .category{
+    text-transform: uppercase;
+}
+.category{
+    color: black;
+}
