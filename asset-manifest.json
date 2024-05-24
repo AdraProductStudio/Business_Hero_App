@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Business_Hero_App/static/css/main.fe78061e.css",
+    "main.js": "/Business_Hero_App/static/js/main.3aa266e3.js",
+    "static/media/test3.jpg": "/Business_Hero_App/static/media/test3.d9232e4faf7ca5692a8f.jpg",
+    "static/media/test4.jpg": "/Business_Hero_App/static/media/test4.6650f5cd10581ac76a67.jpg",
+    "static/media/test2.jpg": "/Business_Hero_App/static/media/test2.89a3d2e64c338b757078.jpg",
+    "static/media/test8.jpg": "/Business_Hero_App/static/media/test8.aa5b2a0117230eb79d52.jpg",
+    "static/media/test6.jpg": "/Business_Hero_App/static/media/test6.d4ac7c8264c748767bcf.jpg",
+    "static/media/test1.jpg": "/Business_Hero_App/static/media/test1.77dc8c6db80a202b5db9.jpg",
+    "static/media/test7.jpg": "/Business_Hero_App/static/media/test7.221085d9ec74c41ba14f.jpg",
+    "static/media/natural.jpg": "/Business_Hero_App/static/media/natural.f4d65b06c7788cd31f47.jpg",
+    "static/media/Screenshot 2024-05-24 155351.png": "/Business_Hero_App/static/media/Screenshot 2024-05-24 155351.5040d7715e65a4dc526e.png",
+    "static/media/scissors.png": "/Business_Hero_App/static/media/scissors.c5919dcb3cfe984bfb3d.png",
+    "static/media/jewelery.png": "/Business_Hero_App/static/media/jewelery.84ddb421f48eecf65a6f.png",
+    "static/media/bakery.png": "/Business_Hero_App/static/media/bakery.b046686711baac1c680f.png",
+    "static/media/insurance.png": "/Business_Hero_App/static/media/insurance.5a96d97df8bd17f2f15e.png",
+    "index.html": "/Business_Hero_App/index.html",
+    "main.fe78061e.css.map": "/Business_Hero_App/static/css/main.fe78061e.css.map",
+    "main.3aa266e3.js.map": "/Business_Hero_App/static/js/main.3aa266e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe78061e.css",
+    "static/js/main.3aa266e3.js"
+  ]
+}
